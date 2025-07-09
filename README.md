@@ -61,10 +61,6 @@ StudentManagementSystem/
 
 ## Code Image for Reference
 
-![My Code Screenshot])
-
-- **Feel free to fork this project and make it your own. Contributions, suggestions, and ideas are always welcome!**
-
-** Happy Coding **
+![My Code Screenshot](https://github.com/SanskrutiYadav05/java-fullstack/blob/main/code.png)
 
 
