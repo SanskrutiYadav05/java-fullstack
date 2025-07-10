@@ -59,8 +59,8 @@ StudentManagementSystem/
 - **GitHub: SanskrutiYadav05**
 ---
 
-## Code Image for Reference
+## output Image for Reference
 
-![My Code Screenshot](https://github.com/SanskrutiYadav05/java-fullstack/blob/main/code.png)
+![My Code Screenshot](https://github.com/SanskrutiYadav05/java-fullstack/blob/main/code1.png)
 
 
